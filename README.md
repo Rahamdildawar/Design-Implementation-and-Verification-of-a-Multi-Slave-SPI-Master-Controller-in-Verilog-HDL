@@ -196,7 +196,5 @@ Department of Computer Engineering
 Ghulam Ishaq Khan Institute of Engineering Science and Technology
 u2024529@giki.edu.pk
 
-## License
 
-Specify a license for this project (e.g., MIT, Apache 2.0) — add a `LICENSE` file to the repository root.
 
