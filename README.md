@@ -115,6 +115,10 @@ The testbench checks, for every transaction:
 | `OLED_DC` correctness          | 2/2                    | Pass   |
 | `busy` assertion timing        | 4/4                    | Pass   |
 
+<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
+<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
+<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
+
 ### Functional Coverage
 
 All functionally relevant coverage bins were hit at 100%, with one intentionally open item — a mid-transfer asynchronous reset scenario — left for a future constrained-random regression suite.
