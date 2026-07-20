@@ -115,9 +115,10 @@ The testbench checks, for every transaction:
 | `OLED_DC` correctness          | 2/2                    | Pass   |
 | `busy` assertion timing        | 4/4                    | Pass   |
 
-<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
-<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
-<img src="images/spi_master_controller.png" alt="Multi-Slave SPI Master Controller" width="800"/>
+<img src="1.png" alt="Full timing diagram" width="800"/>
+<img src="2.png" alt="timing diagram from start" width="800"/>
+<img src="full schematic.png" alt="Full Schematic" width="800"/>
+<img src="extended.png" alt="extended module" width="800"/>
 
 ### Functional Coverage
 
